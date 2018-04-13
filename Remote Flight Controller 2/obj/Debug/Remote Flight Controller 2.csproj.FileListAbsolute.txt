@@ -1,0 +1,22 @@
+F:\Remote Flight Controller 2\Remote Flight Controller 2\bin\Debug\Remote Flight Controller 2.exe.config
+F:\Remote Flight Controller 2\Remote Flight Controller 2\bin\Debug\Remote Flight Controller 2.exe
+F:\Remote Flight Controller 2\Remote Flight Controller 2\bin\Debug\Remote Flight Controller 2.pdb
+F:\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote Flight Controller 2.csprojResolveAssemblyReference.cache
+F:\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote_Flight_Controller_2.RemoteFlightController.resources
+F:\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote_Flight_Controller_2.Properties.Resources.resources
+F:\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote Flight Controller 2.csproj.GenerateResource.Cache
+F:\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote Flight Controller 2.exe
+F:\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote Flight Controller 2.pdb
+F:\Remote Flight Controller 2\Remote Flight Controller 2\bin\Debug\Newtonsoft.Json.dll
+F:\Remote Flight Controller 2\Remote Flight Controller 2\bin\Debug\Newtonsoft.Json.xml
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\bin\Debug\Remote Flight Controller 2.exe.config
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote Flight Controller 2.exe
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote Flight Controller 2.pdb
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\bin\Debug\Remote Flight Controller 2.exe
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\bin\Debug\Remote Flight Controller 2.pdb
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\bin\Debug\Newtonsoft.Json.dll
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\bin\Debug\Newtonsoft.Json.xml
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote Flight Controller 2.csprojResolveAssemblyReference.cache
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote_Flight_Controller_2.RemoteFlightController.resources
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote_Flight_Controller_2.Properties.Resources.resources
+F:\flight simulator\Remote Flight Controller 2\Remote Flight Controller 2\obj\Debug\Remote Flight Controller 2.csproj.GenerateResource.Cache
